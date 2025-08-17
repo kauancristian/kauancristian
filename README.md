@@ -82,7 +82,7 @@
 
 ###
 
---
+---
 
 <p align="left">Kauan Cristian – My passion: building amazing digital experiences, one line of code at a time. 💻</p>
 
