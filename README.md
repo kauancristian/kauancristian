@@ -6,19 +6,6 @@
 
 ###
 
-<h2 align="left">🌐 Socials</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/kauanxrs_/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-      badge" height="40" alt="instagram logo"  /></a>
-
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  
-</div>
-
-###
-
 <p align="left"></p>
 
 ###
@@ -94,6 +81,8 @@
 <p align="left">Throughout my career, I have always sought to go beyond the basics. In every project, the goal is to create experiences that not only work but are intuitive, fluid, and enjoyable. I believe that good interface design is invisible: the user doesn't have to think to use the product; they simply use it. This involves everything from performance optimization for ultra-fast loading to meticulous attention to detail in micro-interactions. My focus is to ensure that every click, every transition, and every animation contributes to a frictionless user journey.<br><br>What drives me is the constant pursuit of excellence. My goal is to be the best at what I do, not out of vanity, but out of an unshakeable commitment to quality. I believe the user deserves the most innovative, functional, and beautiful experience. Therefore, I am always updating myself with the latest technologies, design trends, and industry best practices. This commitment to continuous improvement guarantees that the products I help build not only meet but exceed expectations.</p>
 
 ###
+
+--
 
 <p align="left">Kauan Cristian – My passion: building amazing digital experiences, one line of code at a time. 💻</p>
 
